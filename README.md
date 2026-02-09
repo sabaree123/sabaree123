@@ -13,6 +13,7 @@
 
 ### ⚡ About Me
 - 🎓 **Electronics and Communication Engineering Undergraduate (2023–2027)**
+- 💻 Software-focused learner with strong interest in **C and Java**
 - 🔌 Strong interest in **Core Electronics & VLSI Design**
 - 🔧 Hands-on experience with **Embedded Systems & Arduino**
 - 🧠 Focused on **hardware-level understanding & real-time systems**
@@ -23,7 +24,7 @@
 
 <br clear="right"/>
 
-<h2 align="left"> <span style="color:#4CAF50">🎯 Career Objective</span> </h2>
+<h2 align="left"><span style="color:#4CAF50">🎯 Career Objective</span></h2>
 
 Motivated Electronics and Communication Engineering undergraduate seeking an entry-level opportunity to apply **embedded systems and core electronics knowledge**, gain **hands-on industry experience**, and grow as a **VLSI design professional**.
 
@@ -37,6 +38,30 @@ Motivated Electronics and Communication Engineering undergraduate seeking an ent
 - **HSC – State Board of Tamil Nadu**  
   Bharathi Higher Secondary School, Karur (2022 – 2023)  
   **Score:** 479 / 600 (79.83%)
+
+---
+
+## 💻 Programming Languages
+- **C** – Basics of C, pointers, structures, functions, problem solving  
+- **Java** – Core Java, OOP fundamentals, DSA implementation  
+
+---
+
+## 📊 Data Structures & Algorithms (DSA)
+- Arrays & Strings  
+- Linked Lists  
+- Stacks & Queues  
+- Recursion  
+- Searching & Sorting Algorithms  
+- Basic Time & Space Complexity Analysis  
+
+---
+
+## 🧰 Tools & Environment
+- GCC / G++  
+- VS Code  
+- Arduino IDE  
+- Linux (basic commands & development workflow)
 
 ---
 
@@ -60,30 +85,30 @@ Motivated Electronics and Communication Engineering undergraduate seeking an ent
 
 ### 🔹 Advanced Automatic Medical Waste Segregation Bot
 - Automated hospital waste segregation system  
-- Separates **metal, biodegradable & non-biodegradable waste**
+- Segregates **metal, biodegradable, and non-biodegradable waste**
 - Includes **automatic floor sanitization**
-- Designed for **real-time, reliable healthcare operation**
+- Designed for **real-time and reliable healthcare operation**
 
-**Tech:** Embedded Systems, Sensors, Arduino, Embedded C
+**Tech:** Embedded Systems, Sensors, Arduino, Embedded C  
 
 ---
 
 ### 🔹 Aerogenerator Fan with Power Monitoring System
-- Generated electrical energy from ceiling fan rotation
-- Implemented **rectification, energy storage & regulation**
+- Generated electrical energy from ceiling fan rotation  
+- Implemented **rectification, energy storage, and regulated output**
 - Monitored **voltage and current** for performance analysis
 
-**Tech:** Generator, Rectifier Circuit, Energy Storage, Embedded Monitoring
+**Tech:** Generator, Rectifier Circuit, Energy Storage, Embedded Monitoring  
 
 ---
 
 ## 🏆 Internship & Achievements
 - **IoT & Robotics Intern — Covai Tech Solutions**  
   *25 Jun 2025 – 25 Jul 2025*  
-  - Worked on IoT concepts, robotics basics & sensor integration  
+  - Worked on IoT concepts, robotics basics, and sensor integration  
 
 - 🥈 **Runner-up — SRISTHI 2024 (Kerala)**  
-  - Awarded for innovative project development  
+  - Recognized for innovative project development  
 
 ---
 
