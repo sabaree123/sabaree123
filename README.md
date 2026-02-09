@@ -19,7 +19,7 @@
 - 🚀 Aspiring **VLSI professional**
 
 📬 **Email:** sabareesanmaruthamuthu@gmail.com  
-📞 **Phone:** +91 89252 83267  
+📞 **Phone:** +91 89252 93267  
 
 <br clear="right"/>
 
